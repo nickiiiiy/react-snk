@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-snk/static/css/main.66a90ba0.css",
+    "main.js": "/react-snk/static/js/main.1fd9f800.js",
+    "index.html": "/react-snk/index.html",
+    "main.66a90ba0.css.map": "/react-snk/static/css/main.66a90ba0.css.map",
+    "main.1fd9f800.js.map": "/react-snk/static/js/main.1fd9f800.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a90ba0.css",
+    "static/js/main.1fd9f800.js"
+  ]
+}
